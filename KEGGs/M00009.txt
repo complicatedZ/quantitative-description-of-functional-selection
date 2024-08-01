@@ -1,0 +1,42 @@
+K01647	CS, gltA; citrate synthase [EC:2.3.3.1]
+K05942	E2.3.3.3; citrate (Re)-synthase [EC:2.3.3.3]
+K01681	ACO, acnA; aconitate hydratase [EC:4.2.1.3]
+K01682	acnB; aconitate hydratase 2 / 2-methylisocitrate dehydratase [EC:4.2.1.3 4.2.1.99]
+K00031	IDH1, IDH2, icd; isocitrate dehydrogenase [EC:1.1.1.42]
+K00030	IDH3; isocitrate dehydrogenase (NAD+) [EC:1.1.1.41]
+K00164	OGDH, sucA; 2-oxoglutarate dehydrogenase E1 component [EC:1.2.4.2]
+K01616	kgd; multifunctional 2-oxoglutarate metabolism enzyme [EC:2.2.1.5 4.1.1.71 1.2.4.2 2.3.1.61]
+K00658	DLST, sucB; 2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase) [EC:2.3.1.61]
+K00382	DLD, lpd, pdhD; dihydrolipoyl dehydrogenase [EC:1.8.1.4]
+K00174	korA, oorA, oforA; 2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha [EC:1.2.7.3 1.2.7.11]
+K00175	korB, oorB, oforB; 2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta [EC:1.2.7.3 1.2.7.11]
+K00177	korC, oorC; 2-oxoglutarate ferredoxin oxidoreductase subunit gamma [EC:1.2.7.3]
+K00176	korD, oorD; 2-oxoglutarate ferredoxin oxidoreductase subunit delta [EC:1.2.7.3]
+K01902	sucD; succinyl-CoA synthetase alpha subunit [EC:6.2.1.5]
+K01903	sucC; succinyl-CoA synthetase beta subunit [EC:6.2.1.5]
+K01899	LSC1; succinyl-CoA synthetase alpha subunit [EC:6.2.1.4 6.2.1.5]
+K01900	LSC2; succinyl-CoA synthetase beta subunit [EC:6.2.1.4 6.2.1.5]
+K18118	aarC, cat1; succinyl-CoA:acetate CoA-transferase [EC:2.8.3.18]
+K00234	SDHA, SDH1; succinate dehydrogenase (ubiquinone) flavoprotein subunit [EC:1.3.5.1]
+K00235	SDHB, SDH2; succinate dehydrogenase (ubiquinone) iron-sulfur subunit [EC:1.3.5.1]
+K00236	SDHC, SDH3; succinate dehydrogenase (ubiquinone) cytochrome b560 subunit
+K00237	SDHD, SDH4; succinate dehydrogenase (ubiquinone) membrane anchor subunit
+K25801	SDH4; succinate dehydrogenase (ubiquinone) subunit 4
+K00239	sdhA, frdA; succinate dehydrogenase flavoprotein subunit [EC:1.3.5.1]
+K00240	sdhB, frdB; succinate dehydrogenase iron-sulfur subunit [EC:1.3.5.1]
+K00241	sdhC, frdC; succinate dehydrogenase cytochrome b subunit
+K00242	sdhD, frdD; succinate dehydrogenase membrane anchor subunit
+K18859	sdhD, frdD; succinate dehydrogenase subunit D
+K18860	sdhD, frdD; succinate dehydrogenase subunit D
+K00244	frdA; succinate dehydrogenase flavoprotein subunit [EC:1.3.5.1]
+K00245	frdB; succinate dehydrogenase iron-sulfur subunit [EC:1.3.5.1]
+K00246	frdC; succinate dehydrogenase subunit C
+K00247	frdD; succinate dehydrogenase subunit D
+K01676	E4.2.1.2A, fumA, fumB; fumarate hydratase, class I [EC:4.2.1.2]
+K01679	E4.2.1.2B, fumC, FH; fumarate hydratase, class II [EC:4.2.1.2]
+K01677	E4.2.1.2AA, fumA; fumarate hydratase subunit alpha [EC:4.2.1.2]
+K01678	E4.2.1.2AB, fumB; fumarate hydratase subunit beta [EC:4.2.1.2]
+K00026	MDH2; malate dehydrogenase [EC:1.1.1.37]
+K00025	MDH1; malate dehydrogenase [EC:1.1.1.37]
+K00024	mdh; malate dehydrogenase [EC:1.1.1.37]
+K00116	mqo; malate dehydrogenase (quinone) [EC:1.1.5.4]

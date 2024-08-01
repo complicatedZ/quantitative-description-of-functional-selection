@@ -1,0 +1,6 @@
+K13800	CMPK1, UMPK; UMP-CMP kinase [EC:2.7.4.14]
+K13809	CMPK2; UMP-CMP kinase 2, mitochondrial [EC:2.7.4.14]
+K09903	pyrH; uridylate kinase [EC:2.7.4.22]
+K00940	ndk, NME; nucleoside-diphosphate kinase [EC:2.7.4.6]
+K18533	AK9; adenylate/nucleoside-diphosphate kinase [EC:2.7.4.3 2.7.4.6]
+K01937	pyrG, CTPS; CTP synthase [EC:6.3.4.2]

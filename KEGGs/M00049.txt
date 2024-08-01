@@ -1,0 +1,7 @@
+K01939	purA, ADSS; adenylosuccinate synthase [EC:6.3.4.4]
+K01756	purB, ADSL; adenylosuccinate lyase [EC:4.3.2.2]
+K00939	adk, AK; adenylate kinase [EC:2.7.4.3]
+K18532	AK6, FAP7; adenylate kinase [EC:2.7.4.3]
+K18533	AK9; adenylate/nucleoside-diphosphate kinase [EC:2.7.4.3 2.7.4.6]
+K00944	AK3; nucleoside-triphosphate--adenylate kinase [EC:2.7.4.10]
+K00940	ndk, NME; nucleoside-diphosphate kinase [EC:2.7.4.6]

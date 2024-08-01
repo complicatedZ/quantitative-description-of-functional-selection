@@ -1,0 +1,6 @@
+K00241	sdhC, frdC; succinate dehydrogenase cytochrome b subunit
+K00242	sdhD, frdD; succinate dehydrogenase membrane anchor subunit
+K18859	sdhD, frdD; succinate dehydrogenase subunit D
+K18860	sdhD, frdD; succinate dehydrogenase subunit D
+K00239	sdhA, frdA; succinate dehydrogenase flavoprotein subunit [EC:1.3.5.1]
+K00240	sdhB, frdB; succinate dehydrogenase iron-sulfur subunit [EC:1.3.5.1]

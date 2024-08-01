@@ -1,0 +1,8 @@
+K00278	nadB; L-aspartate oxidase [EC:1.4.3.16]
+K06989	nadX, ASPDH; aspartate dehydrogenase [EC:1.4.1.21]
+K03517	nadA; quinolinate synthase [EC:2.5.1.72]
+K00767	nadC, QPRT; nicotinate-nucleotide pyrophosphorylase (carboxylating) [EC:2.4.2.19]
+K00969	nadD; nicotinate-nucleotide adenylyltransferase [EC:2.7.7.18]
+K06210	NMNAT; nicotinamide mononucleotide adenylyltransferase [EC:2.7.7.1 2.7.7.18]
+K01916	nadE; NAD+ synthase [EC:6.3.1.5]
+K01950	E6.3.5.1, NADSYN1, QNS1, nadE; NAD+ synthase (glutamine-hydrolysing) [EC:6.3.5.1]
